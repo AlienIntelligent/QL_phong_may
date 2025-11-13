@@ -38,6 +38,7 @@
             this.metroButton1.Size = new System.Drawing.Size(269, 192);
             this.metroButton1.TabIndex = 0;
             this.metroButton1.Text = "metroButton1";
+            this.metroButton1.Click += new System.EventHandler(this.metroButton1_Click);
             // 
             // Form1
             // 

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\QuanLyPhongLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6F55668-E7A0-4264-823A-FBAC37B74FC1}|QuanLyPhongLab\\QuanLyPhongLab.csproj|C:\\Users\\ADMIN\\source\\repos\\QuanLyPhongLab\\quanlyphonglab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B6F55668-E7A0-4264-823A-FBAC37B74FC1}|QuanLyPhongLab\\QuanLyPhongLab.csproj|solutionrelative:quanlyphonglab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6F55668-E7A0-4264-823A-FBAC37B74FC1}|QuanLyPhongLab\\QuanLyPhongLab.csproj|c:\\users\\admin\\source\\repos\\quanlyphonglab\\quanlyphonglab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6F55668-E7A0-4264-823A-FBAC37B74FC1}|QuanLyPhongLab\\QuanLyPhongLab.csproj|solutionrelative:quanlyphonglab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F55668-E7A0-4264-823A-FBAC37B74FC1}|QuanLyPhongLab\\QuanLyPhongLab.csproj|C:\\Users\\ADMIN\\source\\repos\\QuanLyPhongLab\\QuanLyPhongLab\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6F55668-E7A0-4264-823A-FBAC37B74FC1}|QuanLyPhongLab\\QuanLyPhongLab.csproj|solutionrelative:QuanLyPhongLab\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QuanLyPhongLab\\QuanLyPhongLab\\Form1.cs",
               "RelativeDocumentMoniker": "QuanLyPhongLab\\Form1.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QuanLyPhongLab\\QuanLyPhongLab\\Form1.cs",
               "RelativeToolTip": "QuanLyPhongLab\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T04:40:17.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QuanLyPhongLab\\QuanLyPhongLab\\Form1.cs",
               "RelativeDocumentMoniker": "QuanLyPhongLab\\Form1.cs",
