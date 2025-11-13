@@ -11,9 +11,9 @@ using MetroFramework.Forms;
 
 namespace QuanLyPhongLab
 {
-    public partial class Form1 : MetroForm
+    public partial class Home : MetroForm
     {
-        public Form1()
+        public Home()
         {
             InitializeComponent();
         }
@@ -23,9 +23,9 @@ namespace QuanLyPhongLab
 
         }
 
-        private void metroButton1_Click(object sender, EventArgs e)
+        private void pnl_Menu_Paint(object sender, PaintEventArgs e)
         {
-            this.Close();
+
         }
     }
 }

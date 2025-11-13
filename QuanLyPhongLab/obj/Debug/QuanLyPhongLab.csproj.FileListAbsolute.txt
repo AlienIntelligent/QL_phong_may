@@ -2,7 +2,6 @@ C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\bin\Debug\QuanLyPhongL
 C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\bin\Debug\QuanLyPhongLab.exe
 C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\bin\Debug\QuanLyPhongLab.pdb
 C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\obj\Debug\QuanLyPhongLab.csproj.AssemblyReference.cache
-C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\obj\Debug\QuanLyPhongLab.Form1.resources
 C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\obj\Debug\QuanLyPhongLab.Properties.Resources.resources
 C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\obj\Debug\QuanLyPhongLab.csproj.GenerateResource.cache
 C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\obj\Debug\QuanLyPhongLab.csproj.CoreCompileInputs.cache
@@ -11,3 +10,5 @@ C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\obj\Debug\QuanLyPhongL
 C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\bin\Debug\MetroFramework.dll
 C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\bin\Debug\MetroFramework.Fonts.dll
 C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\obj\Debug\QuanLyPh.5C1AEF6D.Up2Date
+C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\obj\Debug\QuanLyPhongLab.Home.resources
