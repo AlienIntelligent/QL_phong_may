@@ -8,3 +8,6 @@ C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\obj\Debug\QuanLyPhongL
 C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\obj\Debug\QuanLyPhongLab.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\obj\Debug\QuanLyPhongLab.exe
 C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\obj\Debug\QuanLyPhongLab.pdb
+C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\bin\Debug\MetroFramework.dll
+C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ADMIN\source\repos\QuanLyPhongLab\QuanLyPhongLab\obj\Debug\QuanLyPh.5C1AEF6D.Up2Date
