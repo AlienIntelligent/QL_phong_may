@@ -77,6 +77,12 @@
     <Compile Include="QL_BoMon.Designer.cs">
       <DependentUpon>QL_BoMon.cs</DependentUpon>
     </Compile>
+    <Compile Include="QL_TaiTruc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_TaiTruc.Designer.cs">
+      <DependentUpon>QL_TaiTruc.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Home.resx">
       <DependentUpon>Home.cs</DependentUpon>
     </EmbeddedResource>
